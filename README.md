@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Muhammad Ahmad Naeem 👋
 
-<!--
-**muhammad-ahmad-naeem/muhammad-ahmad-naeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+People call me "BOSS", not totally sure why, but I'll own it 😄
 
-Here are some ideas to get you started:
+🎓 Student, currently learning Python, Data & AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👑 Got solid leadership skills, that's probably where the nickname comes from
+
+📈 Big into finance, currently investing in the stock market
+
+🧠 Working on integrating tech with investing. Using what I learn in Python & AI to build smarter, data-driven market strategies
+
+💡 Always coming up with ideas to sharpen my approach, and actively working on making them better
