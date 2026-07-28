@@ -1,10 +1,11 @@
-<h1 align="center">Muhammad Ahmad Naeem</h1>
-<p align="center"><b>Student, Python, Data & AI</b></p>
+<h1 align="center">Hey, I'm Ahmad 👋</h1>
+<p align="center"><b>People call me "BOSS," not totally sure why, but I'll take it 😄</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-ahmad-naeem-b3285b38b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=muhammad-ahmad-naeem&style=for-the-badge&color=F75C7E" />
 </p>
 
 ---
@@ -12,6 +13,8 @@
 ## About
 
 I'm a student working on Python, data, and AI, and I'm slowly figuring out how to apply that to finance. I like the stock market, and I'm trying to build actual data-backed strategies instead of just going with gut feeling. I also end up leading most projects I'm part of, and I care a lot about building things that are clean and actually make sense to use, not just code that technically runs.
+
+🎓 Student &nbsp;|&nbsp; 📈 Into the stock market &nbsp;|&nbsp; 🧠 Merging tech with investing &nbsp;|&nbsp; 💡 Always got an idea I'm chasing
 
 ---
 
@@ -47,7 +50,7 @@ I'm a student working on Python, data, and AI, and I'm slowly figuring out how t
 
 ## Currently Building
 
-**FIFA 2026 Player Stats Dashboard**, a Streamlit app for exploring player and team performance with real statistical grounding behind it. It's a team project and still actively in progress.
+**FIFA 2026 Player Stats Dashboard** 🏆, a Streamlit app for exploring player and team performance with real statistical grounding behind it. It's a team project and still actively in progress.
 
 ---
 
@@ -63,6 +66,8 @@ I'm a student working on Python, data, and AI, and I'm slowly figuring out how t
 </p>
 
 ---
+
+<p align="center"><i>💡 Always coming up with ideas, and actively working on making them better.</i></p>
 
 ## Contact
 
